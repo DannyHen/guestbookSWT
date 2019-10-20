@@ -1,0 +1,6 @@
+guestbook\GuestbookForm.class
+guestbook\GuestbookRepository.class
+guestbook\GuestbookEntry.class
+guestbook\GuestbookController.class
+guestbook\Application.class
+guestbook\Application$SecurityConfiguration.class
